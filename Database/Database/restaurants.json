@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163d"
+  },
+  "name": "Cafe Coffee Day - The Square",
+  "address": "23/2 Coffee Day Square, Vittal Mallya Road, Near Cubbon Park, Bengaluru, Karnataka, 560001",
+  "website": "https://www.cafecoffeeday.com",
+  "contact": {
+    "phone": "1800 102 5093"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://lh5.googleusercontent.com/p/AF1QipPjVZ4ipqYV_M6hFj1NpIk0S0dG0BVZ6ZglrCel=w408-h306-k-no"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.5943526942352,
+      12.97180332771312
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 50,
+  "ratings": 4.5
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c163f"
+  },
+  "name": "Hotel Empire",
+  "address": "78, Central St, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001",
+  "website": "https://www.hotelempire.in",
+  "contact": {
+    "phone": "08043428080"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/pictures/chains/6/50036/db2271e47065db0a611237066279297b_featured_v2.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.60276672121708,
+      12.980006721618679
+    ]
+  },
+  "status": {
+    "status": "PAUSED",
+    "paused_until": {
+      "$date": "2023-08-23T06:13:55.457Z"
+    },
+    "reason": "restaurant under maintainance"
+  },
+  "numOfReviews": 60,
+  "ratings": 3.8
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1640"
+  },
+  "name": "Pizza Hut",
+  "address": "Gandhi Bazaar Main Rd, next to McDonalds, Gandhi Bazaar, Basavanagudi, Bengaluru, Karnataka 560004",
+  "website": "http://www.californiaburrito.in/",
+  "contact": {
+    "phone": "08047091118"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://www.hubli.net/wp-content/uploads/2021/03/pizza-hut-hubli.png"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.57029839105661,
+      12.95295933609484
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 20,
+  "ratings": 2.5
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1641"
+  },
+  "name": "Daily Sushi",
+  "address": "1, 1, 1st floor, Museum Rd, Haridevpur, Ashok Nagar, Bengaluru, Karnataka 560001",
+  "website": "http://www.dailysushi.in/",
+  "contact": {
+    "phone": "1234567890"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://www.allrecipes.com/thmb/XT7-9MROYJZvNyQR4J40HGOVDmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19511smoked-salmon-sushi-rollfabeveryday4x3-159a22b4d3ac49fe9a146db94b53c930.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.62240994577814,
+      12.936390501950683
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 10,
+  "ratings": 3.6
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1642"
+  },
+  "name": "Domino's Pizza",
+  "address": "Ground Floor, MG Road Metro Station Reach, 1, Church St, Bengaluru, Karnataka 560001",
+  "website": "https://www.dominos.co.in/",
+  "contact": {
+    "phone": "18002081234"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.60644533453593,
+      12.976366585972038
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 90,
+  "ratings": 4.5,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1643"
+  },
+  "name": "Chai Point",
+  "address": "Axis Bank, Trinity, Besides, Mahatma Gandhi Rd, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001",
+  "website": "https://shop.chaipoint.com/",
+  "contact": {
+    "phone": "08880141000"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://10619-2.s.cdn12.com/rests/original/802_502718161.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.61605826922295,
+      12.976360109274447
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 78,
+  "ratings": 5,
+  "isVeg": true
+},{
+  "_id": {
+    "$oid": "64c110bd85a26a78c29c1644"
+  },
+  "name": "Mani's Dum Briyani",
+  "address": "Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+  "website": "http://www.manis.in/",
+  "contact": {
+    "phone": "08043006111"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://www.potsandpans.in/cdn/shop/articles/biryani_banner.png?v=1666954821"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.75013,
+      12.971389
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 46,
+  "ratings": 5
+},{
+  "_id": {
+    "$oid": "64d23cd585a26a78c29c16b3"
+  },
+  "name": "Meghna Briyani",
+  "address": "Mg road, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+  "website": "http://www.Meghna_Biryani.in/",
+  "contact": {
+    "phone": "09043006111"
+  },
+  "images": [
+    {
+      "public_id": "some_public_id",
+      "url": "https://b.zmtcdn.com/data/dish_photos/f8a/20042ceab67859cbc6a7de58e4cabf8a.jpg"
+    }
+  ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      77.75013,
+      12.971389
+    ]
+  },
+  "status": {
+    "status": "ONLINE"
+  },
+  "numOfReviews": 96,
+  "ratings": 4.5
+}]

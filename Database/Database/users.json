@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "name": "Ritz",
+  "email": "richajha@gmail.com",
+  "password": "$2a$12$TxQb383gy1UVgBdu3Ll1p.6wpsr8qjuKCpgCtIkEJVAnCFDyoAfAu",
+  "avatar": {
+    "public_id": "avatars/uvyy6654ullorh142do4",
+    "url": "https://res.cloudinary.com/df8dnez80/image/upload/v1690961346/avatars/uvyy6654ullorh142do4.jpg"
+  },
+  "role": "user",
+  "phoneNumber": "9999999998",
+  "createdAt": {
+    "$date": "2023-07-20T05:54:36.934Z"
+  },
+  "active": true,
+  "__v": 0
+}]

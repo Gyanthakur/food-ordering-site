@@ -1,0 +1,17 @@
+.NumOfRestro{
+    font-size: 2rem;
+    margin-top: 1%;
+    color: black;
+}
+.Restro{
+    font-size: 1.8rem;
+    margin-top: 1%;
+   
+    color: black;
+
+}
+.sort button{
+    color: black;
+    font: 1em sans-serif;
+    font-weight: 600;
+}

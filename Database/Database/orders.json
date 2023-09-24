@@ -1,0 +1,313 @@
+[{
+  "_id": {
+    "$oid": "64d5bb8e89ce8a99b8eafe98"
+  },
+  "shippingInfo": {
+    "address": "Lido mall",
+    "city": "Bengaluru",
+    "phoneNo": "9663731145",
+    "postalCode": "560008",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Cappuccino",
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gpthd2xmhg2wdp0muwsb",
+      "price": 209,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1670"
+      },
+      "_id": {
+        "$oid": "64d5bb8e89ce8a99b8eafe99"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3Ndn8QSIjn2Uvx13135wMaMY",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T04:39:42.249Z"
+  },
+  "itemsPrice": 418,
+  "taxPrice": 20.9,
+  "deliveryCharge": 0,
+  "finalTotal": 438.9,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T04:39:42.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d5dc54b8e25d06975d5202"
+  },
+  "shippingInfo": {
+    "address": "Flat no.303,B wing, Sai Apartment,Near sai baba kaman, Kawtha, Vasarni road",
+    "city": "Nanded",
+    "phoneNo": "07038551145",
+    "postalCode": "431603",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Cappuccino",
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gpthd2xmhg2wdp0muwsb",
+      "price": 209,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1670"
+      },
+      "_id": {
+        "$oid": "64d5dc54b8e25d06975d5203"
+      }
+    },
+    {
+      "name": "Espresso Shot",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/adxirgdok9fcgbiwcyzt",
+      "price": 169,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1673"
+      },
+      "_id": {
+        "$oid": "64d5dc54b8e25d06975d5204"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NdpJjSIjn2Uvx131ClHHBqk",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T06:59:32.433Z"
+  },
+  "itemsPrice": 587,
+  "taxPrice": 29.35,
+  "deliveryCharge": 0,
+  "finalTotal": 616.35,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T06:59:32.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d6070f4f7ce939f21f18f0"
+  },
+  "deliveryInfo": {
+    "address": "Flat no.303,B wing, Sai Apartment,Near sai baba kaman, Kawtha, Vasarni road",
+    "city": "Nanded",
+    "phoneNo": "07038551145",
+    "postalCode": "431603",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Cafe Mocha",
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gwai3ndmxcjfkvk3y5s1",
+      "price": 229,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1674"
+      },
+      "_id": {
+        "$oid": "64d6070f4f7ce939f21f18f1"
+      }
+    },
+    {
+      "name": "Chilli Cheese Toast",
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f64jr2us0n2h7xpx9qkm",
+      "price": 169,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1671"
+      },
+      "_id": {
+        "$oid": "64d6070f4f7ce939f21f18f2"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NdsAASIjn2Uvx130iqsyJNZ",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T10:01:51.562Z"
+  },
+  "itemsPrice": 796,
+  "taxPrice": 39.8,
+  "deliveryCharge": 0,
+  "finalTotal": 835.8,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T10:01:51.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d60f22e721ac0889f8ec60"
+  },
+  "deliveryInfo": {
+    "address": "Flat no.303,B wing, Sai Apartment,Near sai baba kaman, Kawtha, Vasarni road",
+    "city": "Nanded",
+    "phoneNo": "07038551145",
+    "postalCode": "431603",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Cappuccino",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gpthd2xmhg2wdp0muwsb",
+      "price": 209,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1670"
+      },
+      "_id": {
+        "$oid": "64d60f22e721ac0889f8ec61"
+      }
+    },
+    {
+      "name": "Espresso Shot",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/adxirgdok9fcgbiwcyzt",
+      "price": 169,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1673"
+      },
+      "_id": {
+        "$oid": "64d60f22e721ac0889f8ec62"
+      }
+    },
+    {
+      "name": "Cafe Mocha",
+      "quantity": 3,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gwai3ndmxcjfkvk3y5s1",
+      "price": 229,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1674"
+      },
+      "_id": {
+        "$oid": "64d60f22e721ac0889f8ec63"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NdshUSIjn2Uvx1307CZqfqK",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T10:36:18.448Z"
+  },
+  "itemsPrice": 1065,
+  "taxPrice": 53.25,
+  "deliveryCharge": 0,
+  "finalTotal": 1118.25,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T10:36:18.454Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d61c3fe721ac0889f8ef21"
+  },
+  "deliveryInfo": {
+    "address": "Flat no.303,B wing, Sai Apartment,Near sai baba kaman, Kawtha, Vasarni road",
+    "city": "Nanded",
+    "phoneNo": "07038551145",
+    "postalCode": "431603",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Cappuccino",
+      "quantity": 2,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gpthd2xmhg2wdp0muwsb",
+      "price": 209,
+      "fooditem": {
+        "$oid": "64c2399985a26a78c29c1670"
+      },
+      "_id": {
+        "$oid": "64d61c3fe721ac0889f8ef22"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3NdtZfSIjn2Uvx130BbY3Krx",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T11:32:15.865Z"
+  },
+  "itemsPrice": 418,
+  "taxPrice": 20.9,
+  "deliveryCharge": 0,
+  "finalTotal": 438.9,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T11:32:15.870Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d685f8e721ac0889f8fe37"
+  },
+  "deliveryInfo": {
+    "address": "Flat no.303,B wing, Sai Apartment,Near sai baba kaman, Kawtha, Vasarni road",
+    "city": "Nanded",
+    "phoneNo": "07038551145",
+    "postalCode": "431603",
+    "country": "India"
+  },
+  "user": {
+    "$oid": "64b8da25b292a8d6cfd139f2"
+  },
+  "orderItems": [
+    {
+      "name": "Kesar Elichi Chai",
+      "quantity": 1,
+      "image": "https://www.mrcoconut.in/img/products/23_10_2021_16_51_255_pm.webp",
+      "price": 60,
+      "fooditem": {
+        "$oid": "64d6855485a26a78c29c16ff"
+      },
+      "_id": {
+        "$oid": "64d685f8e721ac0889f8fe38"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3Ne0cASIjn2Uvx130IgPZlkP",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-08-11T19:03:20.548Z"
+  },
+  "itemsPrice": 60,
+  "taxPrice": 3,
+  "deliveryCharge": 0,
+  "finalTotal": 88,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2023-08-11T19:03:20.553Z"
+  },
+  "__v": 0
+}]

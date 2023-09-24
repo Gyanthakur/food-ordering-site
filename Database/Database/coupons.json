@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64cce22369cd461bd1e6f080"
+  },
+  "couponName": "PARTY",
+  "subTitle": "Get FLAT 20% off",
+  "minAmount": 700,
+  "discount": 20,
+  "details": "Use Code PARTY and get FLAT 20% off on order above Rs.700. No Upper Limit.",
+  "expire": {
+    "$date": "2023-09-30T23:10:30.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64cce29769cd461bd1e6f082"
+  },
+  "couponName": "JUMBO",
+  "subTitle": "Get FLAT ₹ 125 off",
+  "minAmount": 500,
+  "discount": 15,
+  "details": "Use code JUMBO & get 25% off on orders above ₹500. Maximum discount: ₹125.",
+  "expire": {
+    "$date": "2023-09-30T23:10:30.000Z"
+  },
+  "__v": 0,
+  "maxDiscount": 125
+}]
